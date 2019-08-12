@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+}
+
+.App-header > ul > li {
+  display: inline-block;
+}
+
+.App-header > ul > li > a {
+  color: #fff;
+}
+
+.App-link {
+  color: #61dafb;
+}
